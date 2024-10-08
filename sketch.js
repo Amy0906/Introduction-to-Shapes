@@ -38,4 +38,5 @@ function setup() {
   vertex(250, 250);
   vertex(245, 300);
   endShape(CLOSE);
+//nothing here just example
 }
